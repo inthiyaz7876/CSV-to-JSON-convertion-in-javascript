@@ -1,0 +1,36 @@
+{
+  "name": "Data_Munging_Tool",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha",
+    "build": "gulp build",
+    "execute": "node js/IndiaCensusAmardeep.js",
+    "execute": "node js/ageconverter"
+  },
+  "author": "StackRoute",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.14.1",
+    "gulp": "^3.9.1",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "log4js": "^1.0.1",
+    "sinon": "^1.17.7"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.18.0",
+    "babel-eslint": "^7.1.0",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-1": "^6.16.0",
+    "chai": "^3.5.0",
+    "eslint": "^3.9.1",
+    "eslint-plugin-react": "^6.4.1",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-mocha": "^3.0.1",
+    "mocha": "^3.1.2"
+  }
+}
