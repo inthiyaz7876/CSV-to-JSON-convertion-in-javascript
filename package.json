@@ -7,7 +7,7 @@
     "execute": "node js/IndiaCensusAmardeep.js",
     "execute": "node js/ageconverter"
   },
-  "author": "StackRoute",
+  "author": "Shaik Inthiyaz ali",
   "license": "Apache-2.0",
   "dependencies": {
     "chai": "^3.5.0",
